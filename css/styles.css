@@ -1,0 +1,112 @@
+:root{
+    --main-text-color: #757575;
+    --title-text-color:  #212121;
+}
+
+/*--STUDIO--*/
+
+.nav {
+    color: var(--title-text-color)
+}
+.nav:focus,
+.nav:hover {
+    color: #2196F3;
+}
+
+.kontakt {
+    color: var(--main-text-color)
+}
+
+.hero-title {
+    color: #ffffff;
+}
+
+.button-hero {
+    color:#ffffff ;
+    background-color:  #2196F3;
+}
+
+.advantages-title {
+     color: var(--title-text-color);
+}
+
+.advantages-text {
+    color: var(--main-text-color);
+}
+
+
+.command-title {
+    color: var(--title-text-color);
+}
+
+.command-name {
+    color: var(--title-text-color);
+}
+
+.command-profession {
+    color: var(--main-text-color);
+}
+
+.command-link:hover,
+.command-link:active {
+    color:#2196F3 ;
+}
+
+.clients-title {
+    color: var(--title-text-color);
+}
+
+.nav-footer {
+    background-color: #2F303A;
+}
+
+.nav-footer-adress {
+    color: #ffffff;
+}
+
+.nav-footer-kontakt {
+    color: var(--main-text-color);
+}
+
+.nav-footer-kontakt:focus,
+.nav-footer-kontakt:active {
+    color:#2196F3;
+}
+
+.nav-footer-title {
+    color: var(--title-text-color);
+}
+
+.nav-footer-link {
+    color: #ffffff;
+}
+
+.nav-footer-link:focus,
+.nav-footer-link:active {
+    color: #2196F3;
+}
+
+/*--PORTFOLIO--*/
+
+.page-menu-title {
+    color: var(--title-text-color);
+    background-color: #F5F4FA;
+}
+
+.page-menu-title:focus,
+.page-menu-title:active {
+    color: #ffffff;
+    background-color: #2196F3;
+}
+
+.portfolio-hero {
+    color: #FFFFFF;
+}
+
+.portfolio-title {
+    color:var(--title-text-color) ;
+}
+
+.portfolio-services {
+    color: var(--main-text-color);
+}
